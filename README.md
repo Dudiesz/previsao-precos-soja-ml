@@ -71,11 +71,3 @@ O desenvolvimento do modelo seguiu os seguintes passos detalhados:
 ## 🤝 Como Contribuir
 
 Sinta-se à vontade para clonar este repositório, explorar o código, reproduzir a análise e sugerir melhorias. Todas as **pull requests** são bem-vindas!
-
----
-
----
-
-Com este `README.md`, seu projeto no GitHub estará muito bem documentado e será fácil para outras pessoas entenderem seus objetivos, metodologia e resultados.
-
-Você precisa de ajuda com mais alguma parte do projeto de programação?
