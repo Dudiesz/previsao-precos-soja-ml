@@ -71,3 +71,5 @@ O desenvolvimento do modelo seguiu os seguintes passos detalhados:
 ## 🤝 Como Contribuir
 
 Sinta-se à vontade para clonar este repositório, explorar o código, reproduzir a análise e sugerir melhorias. Todas as **pull requests** são bem-vindas!
+
+Obs: Na hora de criar o README, pedi ajuda para o Gemini <3
